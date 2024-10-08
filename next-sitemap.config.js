@@ -5,8 +5,7 @@
 module.exports = {
   // !STARTERCONF Change the siteUrl
   /** Without additional '/' on the end, e.g. https://google.com */
-  siteUrl:
-    'https://github.com/tigbbit/Next-MUI-TS-Jest-template',
+  siteUrl: 'https://github.com/tigbbit/Next-MUI-TS-Jest-template',
   generateRobotsTxt: true,
   robotsTxtOptions: {
     policies: [{ userAgent: '*', allow: '/' }],
