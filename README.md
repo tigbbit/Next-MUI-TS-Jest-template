@@ -21,11 +21,11 @@ If you prefer Tailwind css, check this: [Tailwind-CSS-Version](https://github.co
 ## Clone this repository for React 19.x with NextJs 15.x or React 18.x with NextJs 14.x
 
 - Clone & install React19-Next15-MUI6-TS-Starter:
-  - `git clone -b react19-nextjs15 https://github.com/AlexStack/nextjs-materia-mui-typescript-hook-form-scaffold-boilerplate-starter.git react19-nextjs15-mui6-ts-starter && cd react19-nextjs15-mui6-ts-starter && yarn install && yarn dev -p 3005`
+  - `git clone -b react19-nextjs15 https://github.com/tigbbit/Next-MUI-TS-Jest-template.git react19-nextjs15-mui6-ts-starter && cd react19-nextjs15-mui6-ts-starter && yarn install && yarn dev -p 3005`
   - Open <http://localhost:3005>
   - Note: React 19 is not released yet, there are some warnings in the console, please ignore them.
 - Clone & install React18-Next14-MUI5-TS-Starter:
-  - `git clone -b nextjs14 https://github.com/AlexStack/nextjs-materia-mui-typescript-hook-form-scaffold-boilerplate-starter.git react18-nextjs14-mui5-ts-starter && cd react18-nextjs14-mui5-ts-starter && yarn install && yarn dev -p 3005`
+  - `git clone -b nextjs14 https://github.com/tigbbit/Next-MUI-TS-Jest-template.git react18-nextjs14-mui5-ts-starter && cd react18-nextjs14-mui5-ts-starter && yarn install && yarn dev -p 3005`
   - Open <http://localhost:3005>
 
 ## Features
@@ -64,12 +64,12 @@ This starter is original from theodorusclarence/ts-nextjs-tailwind-starter, than
 1. Test locally: Using `create-next-app`
 
    ```bash
-   npx create-next-app -e https://github.com/AlexStack/nextjs-materia-mui-typescript-hook-form-scaffold-boilerplate-starter new-project-name
+   npx create-next-app -e https://github.com/tigbbit/Next-MUI-TS-Jest-template new-project-name
    ```
 
 2. Test online: Deploy to Vercel by one click
 
-   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2FAlexStack%2Fnextjs-materia-mui-typescript-hook-form-scaffold-boilerplate-starter&showOptionalTeamCreation=false)
+   [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?s=https://github.com/tigbbit/Next-MUI-TS-Jest-template.git=false)
 
 ### 2. Install dependencies
 
@@ -111,7 +111,7 @@ TEMPLATE
 
 - [HiHB](https://hihb.com/)
 
-Are you using this starter? Please add your page (and repo) to the end of the list via a [Pull Request](https://github.com/AlexStack/nextjs-materia-mui-typescript-hook-form-scaffold-boilerplate-starter/edit/main/README.md). 😃
+Are you using this starter? Please add your page (and repo) to the end of the list via a [Pull Request](https://github.com/tigbbit/Next-MUI-TS-Jest-template/edit/main/README.md). 😃
 
 ## Folder structure
 
@@ -120,8 +120,6 @@ Are you using this starter? Please add your page (and repo) to the end of the li
 ## app/page.tsx code example
 
 🚘🚘🚘 [**Click here to see an online demo of below code**](https://mui-nextjs-ts.vercel.app) 🚘🚘🚘
-
-![app/page.tsx code example](https://raw.githubusercontent.com/AlexStack/nextjs-materia-mui-typescript-hook-form-scaffold-boilerplate-starter/main/public/images/app-page-tsx.png)
 
 ## License
 
